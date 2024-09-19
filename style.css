@@ -1,0 +1,15 @@
+body{
+    background-color: #B8B3E9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.link {
+    width: 60ch;
+    max-width: 100%;
+    margin: auto;
+    padding: 15px 25px 15px 25px;
+    border-radius: 10px;
+    color: black;
+    margin-right: 25px;
+    text-decoration: none;
+}
